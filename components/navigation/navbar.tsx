@@ -1,5 +1,4 @@
 import { Logo } from "@/components/navigation/logo";
-import { LuArrowUpRight } from "react-icons/lu";
 
 import { ModeToggle } from "@/components/navigation/theme-toggle";
 import { SheetLeft } from "@/components/navigation/sidebar";
@@ -46,16 +45,8 @@ export function NavMenu({ isSheet = false }) {
             absolute
             className="flex items-center gap-1 text-sm"
             href={item.href}
-            target={item.external ? "_blank" : undefined}
-            rel={item.external ? "noopener noreferrer" : undefined}
           >
             {item.title}{" "}
-            {item.external && (
-              <LuArrowUpRight
-                className="w-3 h-3 align-super"
-                strokeWidth={3}
-              />
-            )}
           </Anchor>
         );
         return isSheet ? (
