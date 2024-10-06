@@ -20,13 +20,13 @@ export function Footer() {
           <div className="text-center hidden md:block">
             <Link 
               className="font-semibold" 
-              href="https://www.rubixstudios.com.au"
+              href="https://thebluebook.co.za"
               target="_blank"
               rel="noopener noreferrer"
             >
               <Image
-                src="/logo.svg"
-                alt="Rubix Studios Logo"
+                src="/icon.png"
+                alt="Love Inc"
                 width={30}
                 height={30}
               />

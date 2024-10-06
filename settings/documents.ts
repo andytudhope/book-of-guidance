@@ -4,86 +4,86 @@ export const Documents: Paths[] = [
   {
     title: "Introduction",
     href: "/introduction",
-    heading: "Getting started",
-    items: [
-      {
-        title: "Installation",
-        href: "/installation",
-      },
-      {
-        title: "Setup",
-        href: "/setup",
-      },
-      {
-        title: "Changelog",
-        href: "/changelog",
-      },
-    ],
+    heading: "The Book of Guidance",
   },
   {
-    spacer: true,
+    title: "22-08-2020",
+    href: "/22-08-2020"
   },
   {
-    title: "Navigation",
-    href: "/navigation",
-    heading: "Documents",
+    title: "23-08-2020",
+    href: "/23-08-2020"
   },
   {
-    title: "Structure",
-    href: "/structure",
-    items: [
-      {
-        title: "Deeper",
-        href: "/deeper",
-        items : [
-          {
-            title: "Even deeper",
-            href: "/even-deeper",
-          },
-        ]
-      },
-    ],
+    title: "24-08-2020",
+    href: "/24-08-2020"
   },
   {
-    spacer: true,
+    title: "25-08-2020",
+    href: "/25-08-2020"
   },
   {
-    title: "Markup",
-    href: "/markup",
-    heading: "Components",
-    items: [
-      {
-        title: "Alert",
-        href: "/alert",
-      },
-      {
-        title: "Cards",
-        href: "/cards",
-      },
-      {
-        title: "Diagrams",
-        href: "/diagrams",
-      },
-      {
-        title: "Lists",
-        href: "/lists",
-      },
-      {
-        title: "Maths",
-        href: "/maths",
-      },
-      {
-        title: "Steps",
-        href: "/steps",
-      },
-      {
-        title: "Table",
-        href: "/table",
-      },
-      {
-        title: "Tabs",
-        href: "/tabs",
-      },
-    ],
+    title: "26-08-2020",
+    href: "/26-08-2020"
+  },
+  {
+    title: "27-08-2020",
+    href: "/27-08-2020"
+  },
+  {
+    title: "28-08-2020",
+    href: "/28-08-2020"
+  },
+  {
+    title: "29-08-2020",
+    href: "/29-08-2020"
+  },
+  {
+    title: "30-08-2020",
+    href: "/30-08-2020"
+  },
+  {
+    title: "31-08-2020",
+    href: "/31-08-2020"
+  },
+  {
+    title: "01-09-2020",
+    href: "/01-09-2020"
+  },
+  {
+    title: "02-09-2020",
+    href: "/02-09-2020"
+  },
+  {
+    title: "03-09-2020",
+    href: "/03-09-2020"
+  },
+  {
+    title: "04-09-2020",
+    href: "/04-09-2020"
+  },
+  {
+    title: "05-09-2020",
+    href: "/05-09-2020"
+  },
+  {
+    title: "06-09-2020",
+    href: "/06-09-2020"
+  },
+  {
+    title: "07-09-2020",
+    href: "/07-09-2020"
+  },
+  {
+    title: "08-09-2020",
+    href: "/08-09-2020"
+  },
+  {
+    title: "09-09-2020",
+    href: "/09-09-2020"
+  },
+  {
+    title: "15-11-2020",
+    href: "/15-11-2020"
   },
 ];

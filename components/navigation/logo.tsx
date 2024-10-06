@@ -6,7 +6,7 @@ export function Logo() {
     return (
       <Link href="/" className="flex items-center gap-2.5">
         <Image 
-          src={Settings.siteicon}
+          src="/icon.png"
           alt={`${Settings.title} main logo`}
           width={34}
           height={34}
