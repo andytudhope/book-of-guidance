@@ -1,5 +1,5 @@
 {
-  "name": "rubix-documents",
+  "name": "book-of-guidance",
   "version": "1.0.0",
   "private": false,
   "scripts": {
@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "generate-content-json": "ts-node scripts/content.ts",
+    "generate-content-json": "node --loader ts-node/esm scripts/content.mts",
     "prepare": "husky"
   },
   "dependencies": {

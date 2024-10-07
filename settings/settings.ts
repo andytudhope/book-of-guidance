@@ -1,4 +1,4 @@
-export const url = "https://guidance.vercel.app";
+export const url = "https://thebookofguidance.com";
 export const siteicon = "/icon.png";
 
 export const gtm = "GTM-XXXXXXX";
@@ -8,7 +8,7 @@ export const sitename = "Guidance";
 export const description = "An account of meeting a true teacher";
 export const keywords = ["guidance", "love", "book", "balance", "courage", "honesty"];
 export const urlimage = "/images/og-image.png";
-export const imagealt = "Moonshine";
+export const imagealt = "Guidance";
 export const twitterhandle = "@cryptowanderer";
 
 export const companyname = "Love Inc";
