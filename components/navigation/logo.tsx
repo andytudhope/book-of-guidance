@@ -10,8 +10,7 @@ export function Logo() {
           alt={`${Settings.title} main logo`}
           width={34}
           height={34}
-          loading="lazy"
-          decoding="async"
+          unoptimized
         />
         <h1 className="text-md font-semibold">{Settings.title}</h1>
       </Link>
